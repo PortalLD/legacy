@@ -1,0 +1,3 @@
+[submodule "RemoteMicrocontrollerLab"]
+	path = RemoteMicrocontrollerLab
+	url = https://github.com/menotti/RemoteMicrocontrollerLab
